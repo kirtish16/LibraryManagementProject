@@ -1,0 +1,19 @@
+Engineering Vibration Fourth Edition by Daniel J. Inman,Aerospace Engineering,Vibration,TRUE,https://www.engineeringbookspdf.com/engineering-vibration-fourth-edition-by-daniel-j-inman/
+HEAD-FIRST Engineering Vibration Fourth Edition by Daniel J. Inman,Aerospace Engineering,Vibration,FALSE
+Theoretical and Applied Aerodynamics and Related Numerical Methods by J.J. Chattot and M.M. Hafez,Aerospace Engineering,Aerodynamics,TRUE,https://www.engineeringbookspdf.com/theoretical-and-applied-aerodynamics-and-related-numerical-methods-by-j-j-chattot-and-m-m-hafez/
+HEAD-FIRST Theoretical and Applied Aerodynamics and Related Numerical Methods by J.J. Chattot and M.M. Hafez,Aerospace Engineering,Aerodynamics,FALSE
+Aircraft Engine Design Second Edition by Jack D. Mattingly- William H. Heiser- Keith M. Boyer- Brenda A. Haven and David T. Pratt,Aerospace Engineering,Engine Design,TRUE,https://www.engineeringbookspdf.com/aircraft-engine-design-second-edition-by-jack-d-mattingly-william-h-heiser-keith-m-boyer-brenda-a-haven-and-david-t-pratt/
+HEAD-FIRST Aircraft Engine Design Second Edition by Jack D. Mattingly- William H. Heiser- Keith M. Boyer- Brenda A. Haven and David T. Pratt,Aerospace Engineering,Engine Design,FALSE
+Python Programming Language,Computer Engineering,Python,TRUE,https://www.engineeringbookspdf.com/python-programming-language/
+HEAD-FIRST Python Programming Language,Computer Engineering,Python,FALSE
+Learning PHP MySQL and JavaScript with jQuery CSS and HTML5,Computer Engineering,MySQL,TRUE,https://www.engineeringbookspdf.com/learning-php-mysql-javascript-jquery-css-html5-4th-edition-robin-nixon/
+HEAD-FIRST Learning PHP MySQL and JavaScript with jQuery CSS and HTML5,Computer Engineering,MySQL,FALSE
+Machine Learning for Dummies by John Paul Mueller and Luca Massaron,Computer Engineering,Machine Learning,TRUE,https://www.engineeringbookspdf.com/machine-learning-for-dummies-by-john-paul-mueller-and-luca-massaron/
+HEAD-FIRST Machine Learning for Dummies by John Paul Mueller and Luca Massaron,Computer Engineering,Machine Learning,FALSE
+Combustion Engines Development Mixture Formation Combustion Emissions and Simulation,Mechanical Engineering,Combustion,TRUE,https://www.engineeringbookspdf.com/combustion-engines-development-mixture-formation-combustion-emissions-and-simulation-edited-by-gunter-p-merker-christian-schwarz-and-rudiger-teichmann/
+HEAD-FIRST Combustion Engines Development Mixture Formation Combustion Emissions and Simulation,Mechanical Engineering,Combustion,FALSE
+Thermodynamics Combustion and Engines,Mechanical Engineering,Thermodynamics,TRUE,https://www.engineeringbookspdf.com/thermodynamics-combustion-and-engines-by-brian-e-milton/
+HEAD-FIRST Thermodynamics Combustion and Engines,Mechanical Engineering,Thermodynamics,FALSE
+Boilers for Power and Process,Mechanical Engineering,Boilers,TRUE,https://www.engineeringbookspdf.com/boilers-for-power-and-process-by-kumar-rayaprolu/
+HEAD-FIRST Boilers for Power and Process,Mechanical Engineering,Boilers,FALSE
+PYTHON,Computer,MYSQL
