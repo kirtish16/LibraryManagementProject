@@ -4,6 +4,8 @@ A library management system where students and the faculty member could log into
 Students who don’t have an account can register and those who already have an account can log in.
 There is only one username and password for faculty members to login to the admin section.
 
+Download and run main.exe on PC to run the project.
+
 ## Technology:
 - Frontend : Tkinter.
 - Backend :  File Handling, CSV
